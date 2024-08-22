@@ -1,0 +1,17 @@
+[{
+  "icon":"grid-outline",
+  "name":"Pagina Uno",
+  "redirect":"/pagina-uno"
+  },
+  {
+    "icon":"alert-circle-outline",
+    "name":"Pagina Dos",
+    "redirect":"/pagina-dos"
+    },
+    {
+      "icon":"albums-outline",
+      "name":"Pagina Tres",
+      "redirect":"/pagina-tres"
+      }
+
+  ]
